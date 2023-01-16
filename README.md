@@ -58,7 +58,7 @@
 <br>
   <br>
   
-[![Gaurav's GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=ashutosh00710&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Gaurav's GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=GAURAV1-ui&bg_color=1a1b27&color=70a5fd&line=70a5fd&point=a9b1d6&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 | ![Gaurav's github stats](https://github-readme-stats.vercel.app/api?username=GAURAV1-ui&show_icons=true&theme=tokyonight) | ![Gaurav GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=GAURAV1-ui&theme=tokyonight) |
 | --- | --- |
