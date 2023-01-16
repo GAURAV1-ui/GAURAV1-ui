@@ -3,7 +3,7 @@
         <img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/cover-thompson.png" alt="GitHub Octocat Drinking a Cup of Coffee" height="400">
     </div>
     <div align=center>
-        <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there+I'm+Gaurav+%F0%9F%91%8B;Full+Stack+Web+Developer;Flutter+Developer;Start-up+Enthusiast" alt="Headline" />
+        <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there+I'm+Gaurav+%F0%9F%91%8B;Full+Stack+Web+Developer;DevOps;Start-up+Enthusiast" alt="Headline" />
     </div>
     <div align="center">
   <h3><b>😄 Can Connect With Me On</b></h3>
@@ -58,7 +58,7 @@
 <br>
   <br>
   
-[![Gaurav's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=GAURAV1-ui&theme=material-palenight)](https://git.io/praveenscience)
+[![Gaurav's GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=ashutosh00710&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 | ![Gaurav's github stats](https://github-readme-stats.vercel.app/api?username=GAURAV1-ui&show_icons=true&theme=tokyonight) | ![Gaurav GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=GAURAV1-ui&theme=tokyonight) |
 | --- | --- |
